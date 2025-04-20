@@ -40,7 +40,7 @@
         },
         {
             "label": "Skill section",
-            "altText": "Dropdown",
+            "altText": "Skills",
             "links": [
                 {
                     "label": "Dropdown item",

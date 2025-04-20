@@ -22,7 +22,7 @@
         },
         {
             "label": "Projects",
-            "altText": "Blog",
+            "altText": "projects",
             "url": "/projects",
             "icon": "arrowRight",
             "iconPosition": "right",
